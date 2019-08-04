@@ -7,3 +7,5 @@ RUN apk update \
 
 # setup acf
 RUN setup-acf
+
+EXPOSE 443
